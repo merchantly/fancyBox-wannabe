@@ -126,7 +126,7 @@
 			}
 
 			//Increase bottom margin to give space for thumbs
-			obj.margin[ opts.position === 'top' ? 0 : 2 ] += ((opts.height) + 15);
+			// obj.margin[ opts.position === 'top' ? 0 : 2 ] += ((opts.height) + 15);
 		},
 
 		afterShow: function (opts, obj) {
